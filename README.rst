@@ -5,11 +5,9 @@ Install
 -------
 
 .. code-block:: sh
-   :linenos:
 
     pip install git+https://github.com/lb-lewisham/liad.git
 
-* Free software: GNU General Public License v3
 
 Example use
 -----------
@@ -34,3 +32,5 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+Free software: GNU General Public License v3
